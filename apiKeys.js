@@ -1,0 +1,3 @@
+WEATHER_API_KEY = dbadba3b6a415a81ba40263bf08007ee;
+
+export default WEATHER_API_KEY;
